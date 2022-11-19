@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project 4</string>
+    <string name="behind">Недоелет!</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit">В точку!!!</string>
+    <string name="input_value">Ввести значение</string>
+    <string name="play_more">Сыграть еще</string>
+    <string name="try_to_goes">Попробуйте отгадать число (1 &#8211; 100)</string>
+    <string name="error">Неверный ввод</string>
+</resources>
